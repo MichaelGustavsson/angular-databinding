@@ -13,7 +13,7 @@ Hämta här</a> om det inte redan är installerat på maskinen.
 
 **Verifiera att du kör åtminstone node `v4.x.x` och npm `3.x.x`**
 genom att köra kommandona `node -v` och `npm -v` i ett terminal/konsole fönster.
-Äldre version kommer att generera konstiga felmeddelanden när Angulars paket försöker installeras.
+Annars kommer äldre versioner att generera konstiga felmeddelanden när Angulars paket försöker installeras.
 
 Om man vill kunna köra olika versioner av node och npm på samma maskin,
 rekommenderar jag att ni använder [nvm](https://github.com/creationix/nvm).
