@@ -1,0 +1,20 @@
+{
+  "name": "course-track",
+  "description": "Simple databinding demo",
+  "main": "",
+  "authors": [
+    "Michael Gustavsson"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
